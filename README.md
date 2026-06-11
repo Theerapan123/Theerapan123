@@ -8,14 +8,18 @@
 นักพัฒนาที่หลงใหลในการสร้างสรรค์และแก้ปัญหาด้วยโค้ด
 </p>
 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์ที่เกี่ยวข้องกับ **Web Development** และ **Database Management**
+</p>
 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **UI/UX Design** และ **Cloud Technologies**
+</p>
 💡 สนใจการออกแบบระบบที่มีประสิทธิภาพและสามารถขยายได้ (Scalable Systems)
+</p>
 ⚡ ชอบทดลองไอเดียใหม่ ๆ และพัฒนาเครื่องมือเล็ก ๆ ที่ช่วยให้ชีวิตง่ายขึ้น
+</p>
 🎯 เป้าหมายคือการเป็น **Full-Stack Developer** ที่สามารถสร้างทั้ง Frontend และ Backend ได้อย่างครบวงจร
+</p>
 <p align="center">
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
-
 
 ## 🛠️ Languages & Tools
 
