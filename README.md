@@ -3,18 +3,18 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
-- <p align="center">
-- สวัสดีครับ! ผมคือ <b>Mr.Theerapan</b> 🎉
-- นักพัฒนาที่หลงใหลในการสร้างสรรค์และแก้ปัญหาด้วยโค้ด
-- </p>
-- 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์ที่เกี่ยวข้องกับ **Web Development** และ **Database Management**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **UI/UX Design** และ **Cloud Technologies**
-- 💡 สนใจการออกแบบระบบที่มีประสิทธิภาพและสามารถขยายได้ (Scalable Systems)
-- ⚡ ชอบทดลองไอเดียใหม่ ๆ และพัฒนาเครื่องมือเล็ก ๆ ที่ช่วยให้ชีวิตง่ายขึ้น
-- 🎯 เป้าหมายคือการเป็น **Full-Stack Developer** ที่สามารถสร้างทั้ง Frontend และ Backend ได้อย่างครบวงจร
-- <p align="center">
-- <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF"/>
-- </p>
+<p align="center">
+สวัสดีครับ! ผมคือ <b>Mr.Theerapan</b> 🎉
+นักพัฒนาที่หลงใหลในการสร้างสรรค์และแก้ปัญหาด้วยโค้ด
+</p>
+🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์ที่เกี่ยวข้องกับ **Web Development** และ **Database Management**
+🌱 กำลังเรียนรู้เพิ่มเติมเกี่ยวกับ **UI/UX Design** และ **Cloud Technologies**
+💡 สนใจการออกแบบระบบที่มีประสิทธิภาพและสามารถขยายได้ (Scalable Systems)
+⚡ ชอบทดลองไอเดียใหม่ ๆ และพัฒนาเครื่องมือเล็ก ๆ ที่ช่วยให้ชีวิตง่ายขึ้น
+🎯 เป้าหมายคือการเป็น **Full-Stack Developer** ที่สามารถสร้างทั้ง Frontend และ Backend ได้อย่างครบวงจร
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Coding GIF"/>
+</p>
 
 
 ## 🛠️ Languages & Tools
